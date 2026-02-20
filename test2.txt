@@ -1,3 +1,4 @@
 Login_Load_Test.jmx
 
 stress testing code is added.
+load stress, API
